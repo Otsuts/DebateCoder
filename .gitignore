@@ -1,0 +1,9 @@
+.vscode/
+data/
+output/
+results/
+trained_models/
+__pycache__/
+raw_data/
+order.txt
+outputs/
