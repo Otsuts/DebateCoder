@@ -322,7 +322,7 @@ def main(args):
                 ):
                     solB = solB2
             except Exception as e:
-                print("*" * 10, "Fuck!! Something wrong happened", "*" * 10)
+                print("*" * 10, "Something wrong happened", "*" * 10)
                 print(e)
 
             datadealer.save_results(
